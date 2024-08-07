@@ -315,6 +315,13 @@ form.btn2{
 .copyright i{
     color:#ff004f ;
 }
+    
+.fa-x,
+.fa-bars {
+    display: none;
+}
+
+
 
 
 
